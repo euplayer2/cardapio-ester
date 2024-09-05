@@ -31,7 +31,7 @@ function Home() {
         titulo="Duo Maracujá"
         imagem={prodduo}
         preco="R$8,99"
-        Link="https://wa.me/5586998462723?text=Olá,%20gostaria%20de%20pedir%20um%20duo%20maracuja
+        link="https://wa.me/5586998462723?text=Olá,%20gostaria%20de%20pedir%20um%20duo%20maracuja
         "
       />
       <Cards
