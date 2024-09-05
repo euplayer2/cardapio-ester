@@ -9,7 +9,7 @@ import Navbar from './components/layout/Navbar';
 function App() {
   return (
     
-    <Router>
+    <Router basename="/cardapio-ester">
       <Navbar/>
 
 
