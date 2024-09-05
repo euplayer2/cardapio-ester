@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cardapio-ester/static/css/main.a322515e.css",
+    "main.js": "/cardapio-ester/static/js/main.cb623774.js",
+    "static/media/prodminiboloninhonutella.PNG": "/cardapio-ester/static/media/prodminiboloninhonutella.e10245c4eaf34f60ead0.PNG",
+    "static/media/prodduo.PNG": "/cardapio-ester/static/media/prodduo.7e7ca24d7cdcd53ac010.PNG",
+    "static/media/prodminibolosal.PNG": "/cardapio-ester/static/media/prodminibolosal.c86eda616b292df20b9a.PNG",
+    "static/media/prodninho.PNG": "/cardapio-ester/static/media/prodninho.2d2a8bea061aa44e23b7.PNG",
+    "static/media/prodminibolochocolate.PNG": "/cardapio-ester/static/media/prodminibolochocolate.88d8d520cf4391766607.PNG",
+    "static/media/prodminiboloninhooreo.PNG": "/cardapio-ester/static/media/prodminiboloninhooreo.ebb616e857054a90d5ff.PNG",
+    "static/media/prodbanoffee.PNG": "/cardapio-ester/static/media/prodbanoffee.9ab4a24d8d59847a438d.PNG",
+    "static/media/prodminibolocenourabrigadeiro.PNG": "/cardapio-ester/static/media/prodminibolocenourabrigadeiro.92d99b50394194e627d3.PNG",
+    "static/media/logoester.png": "/cardapio-ester/static/media/logoester.297752c6be34ac4c5fe6.png",
+    "index.html": "/cardapio-ester/index.html",
+    "main.a322515e.css.map": "/cardapio-ester/static/css/main.a322515e.css.map",
+    "main.cb623774.js.map": "/cardapio-ester/static/js/main.cb623774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a322515e.css",
+    "static/js/main.cb623774.js"
+  ]
+}
