@@ -10,7 +10,7 @@ function Navbar () {
                   
          <ul className={styles.list}>
             
-        <li className={styles.item}><Link to="/contato">Contato</Link>
+        <li className={styles.item}><Link to="https://wa.me/5586998462723?text=Olá,%20gostaria%20de%20ser atendido(a)">Contato</Link>
         </li>
        
          </ul>

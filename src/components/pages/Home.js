@@ -21,7 +21,7 @@ function Home() {
 
 <div className={styles.card}>
       <Cards
-        titulo="Banoffee de banana com ninho"
+        titulo="Banoffee"
         imagem={prodbanoffee}
         preco="R$7,99"
         link="https://wa.me/5586998462723?text=Olá,%20gostaria%20de%20pedir%20um%20banoffee
