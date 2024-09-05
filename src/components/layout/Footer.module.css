@@ -3,10 +3,12 @@
 .footer {
     background-color: #FF9CBD ;
     color: #fff;
-    margin-top: 30px;
-    padding: 1em;
+    /*margin-top: 30px;*/
+    padding: 0.6em;
     text-align: center;
     width: 100%;
+    bottom: 0;
+    position: fixed;
 }
 
 .social_list {
@@ -21,4 +23,14 @@ margin: 0.1em;
 
 .social_list li:hover {
     color:#84314D;
+}
+
+.social_list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.social_list a:hover {
+    text-decoration: none;
+    color: #84314D;
 }

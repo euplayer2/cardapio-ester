@@ -1,10 +1,10 @@
 .card {
   background-color: #ffeef2;
-  width: 100px;
-  height: 145px;
+  width: 105px;
+  height: 147px;
   border-radius: 6.7px;
   box-shadow: 2.2px 2.2px 6.7px #0000004e;
-  margin-left: 2.2px;
+  margin-left: 1px;
 }
 
 .card img {
@@ -19,12 +19,15 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 2.2px;
+  gap: 1.8px;
   height: 50%;
 }
 
 .card h1 {
   font-size: 0.68rem; 
+  text-align: center;
+  margin-left: 1.5px;
+  margin-right: 1.5px;
 }
 
 .card h2 {
