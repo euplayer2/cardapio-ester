@@ -3,12 +3,10 @@
 .footer {
     background-color: #FF9CBD ;
     color: #fff;
-    /*margin-top: 30px;*/
+    margin-top: 35px;
     padding: 0.6em;
     text-align: center;
     width: 100%;
-    bottom: 0;
-    position: fixed;
 }
 
 .social_list {
